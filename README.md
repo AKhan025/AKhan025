@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arif Uddin Khan
 
 🎓 BSc (Hons) Computer Science student at University of Huddersfield  
-💻 Passionate about software development, game design, and web technologies  
+💻 Passionate about software development, AI, and web technologies  
 🛠️ Skilled in Python, Java, Lua, PHP, HTML/CSS, and SQL  
 🎮 Currently working on full-stack web apps and integrating LLMs.  
 📫 Reach me at ak5316221@gmail.com | [LinkedIn](www.linkedin.com/in/arif-u-k)
