@@ -4,7 +4,7 @@
 💻 Passionate about software development, AI, and web technologies  
 🛠️ Skilled in Python, Java, Lua, PHP, HTML/CSS, and SQL  
 🎮 Currently working on full-stack web apps and integrating LLMs.  
-📫 Reach me at ak5316221@gmail.com | [LinkedIn](www.linkedin.com/in/arif-u-k)
+📫 Reach me at ak5316221@gmail.com | [LinkedIn](https://www.linkedin.com/in/arif-u-k)
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
